@@ -35,6 +35,6 @@ modifications (ex : division) sera représentée par au moins deux noeuds
 * Confère Img_pre_process.ipynb et Graph4STIS.ipynb
 
 ### Exemple de graphe d'évolution
-<img src="./graph15_.png" width="20cm">
+<img src="./graph15_.png" width="100">
 
 ![alt tag](./graph15_.png)
