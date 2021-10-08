@@ -37,4 +37,4 @@ modifications (ex : division) sera représentée par au moins deux noeuds
 ### Exemple de graphe d'évolution
 <img src="./graph15_.png" width="100">
 
-![alt tag](./graph15_.png)
+![alt tag](./graph15_.png){:height="36px" width="36px"}
