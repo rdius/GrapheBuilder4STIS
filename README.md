@@ -30,5 +30,9 @@ de l’entité spatiale dans le temps
    * Une entité spatialement stable entre deux dates différentes, sera représentée par un noeud, tandis qu’une entité qui subit des
 modifications (ex : division) sera représentée par au moins deux noeuds
 
+### Usage : 
+
+* Confère Img_pre_process.ipynb et Graph4STIS.ipynb
+
 ### Exemple de graphe d'évolution
 ![alt tag](./graph15_.png)
